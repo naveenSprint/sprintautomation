@@ -1,3 +1,4 @@
 Welcome to learning session of edureka
 This to learn GIT
-Commiting chnages through Eclipse
+Commiting chnages through Eclipse 
+and update with jira
