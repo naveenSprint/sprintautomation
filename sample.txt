@@ -1,5 +1,5 @@
 Welcome to learning session of edureka
 This to learn GIT
 Commiting chnages through Eclipse 
-and update with jira
+and update with jira through webhook
 *******************************
